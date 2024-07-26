@@ -15,4 +15,9 @@ Algorithm used for predicting and get accuracy are -
 We are making accuracy and prediction in Iris project through Iris Dataset.
 This is easy and understable for machine learning staters( Naive ).
 
+pip install torch 
+git clone https://github.com/Amenferjani/iris.git
+cd iris
+
+
 PS: Please do not forget to drop a star if you like it!
